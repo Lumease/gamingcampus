@@ -1,2 +1,4 @@
-This is my first website project (fr).
-Link : https://neceos.github.io/gaming-campus/ 
+Voici mon premier projet mis en ligne !
+This is my first website project ! (fr).
+Link :
+

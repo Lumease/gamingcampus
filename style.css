@@ -49,7 +49,7 @@ nav ul {
 }
 nav li {
   text-transform: uppercase;
-  font-weight: 900;
+  font-weight: 500;
   font-size: 0.9rem;
   cursor: pointer;
   position: relative;

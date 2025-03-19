@@ -6,6 +6,7 @@ Il s'agit d'un modèle public et disponible. Vous pouvez vous en servir pour bé
 
 Ce projet est effectué dans le cadre de la formation "Mastering Front-End".
 Il présente un désign complet et interractif, pouvant vous servir à mettre en lumière votre marque ou votre entreprise.
+
 Vous pouvez le visiter via le lien suivant : https://lumease.github.io/gamingcampus/.
 
 ## Modifications et publication du modèle

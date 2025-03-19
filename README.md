@@ -55,3 +55,59 @@ Puis :
 Lumease - 2025.
 
 ---
+
+# Welcome to the "Gaming Campus" project!
+
+This is a public and available model. You can use it to benefit from a customizable template.
+
+## Description
+
+This project is part of the "Mastering Front-End" course.  
+It features a complete and interactive design, which can help highlight your brand or business.  
+You can visit it via the following link: https://lumease.github.io/gamingcampus/.
+
+## Modifications and Publishing the Model
+
+Are you a beginner and want to get this model?
+
+You will need to download Git Bash (for Windows and Mac). For Mac, it's the Terminal app.
+
+After launching it, enter the following commands:
+
+- 'cd Desktop'
+- 'git clone https://github.com/Lumease/gamingcampus.git'
+- Go to your code editor, then open the folder.
+
+Or download the ZIP compressed format.
+
+--
+
+To publish:
+
+- Follow these instructions after creating an account:
+
+  - Open the terminal, then enter:
+    - 'git config --global user.name "Username"'
+    - 'git config --global user.email "my@mail.com"'
+    - 'git config --global --list' : To check if the name and email are correctly registered.
+
+Then:
+
+- Open the terminal and enter the following commands:
+
+  - 'cd Desktop/folder-name'
+  - 'git add .'
+  - 'git commit -m "Message-you-want"'
+  - 'git push -u origin main'
+
+- From VS Code:
+
+  Select "Bash" in the terminal, then enter:
+
+  - 'git add .'
+  - 'git commit -m "Message-you-want"'
+  - 'git push -u origin main'
+
+## Author
+
+Lumease - 2025.
